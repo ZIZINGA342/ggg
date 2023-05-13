@@ -29,5 +29,4 @@ intmain(void){
 	printf("enter p>");
 	scanf("%f",&p);
 	return p;
-	return 0;
 }
